@@ -20,7 +20,7 @@
 
 Fishstrap is a Bloxstrap fork aiming to enhance some of the features.
 
-Found any bugs? Submit an [issue](https://github.com/returnrqt/bloxstrap/issues) or create bug report in our [discord server](https://discord.gg/xSsamjAU84).
+Found any bugs? Submit an [issue](https://github.com/returnrqt/bloxstrap/issues) or create bug report in our [discord server](https://discord.gg/test).
 
 ## Differences from Fishstrap
 - Use ImGUI to minimize resource usage
